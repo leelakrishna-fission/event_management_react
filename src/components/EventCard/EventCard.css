@@ -1,0 +1,109 @@
+.glass-card {
+  background: rgba(255, 255, 255, 0.8); /* Light background for contrast */
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  color: #333;
+  max-width: 600px;
+  margin: auto;
+}
+
+.glass-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 16px 32px rgba(0, 0, 0, 0.15);
+}
+
+.event-image-container {
+  position: relative;
+}
+
+.event-image {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  filter: brightness(0.9);
+}
+
+.event-category {
+  position: absolute;
+  top: 12px;
+  right: 50px;
+  background: linear-gradient(45deg, #ff416c, #ff4b2b);
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.event-edit {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: linear-gradient(45deg, #ff416c, #ff4b2b);
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.event-content {
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.6); /* light contrast behind text */
+}
+
+.event-title {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  font-weight: 600;
+  color: #222;
+}
+
+.event-description {
+  font-size: 0.95rem;
+  color: #444;
+  margin-bottom: 20px;
+  min-height: 60px;
+}
+
+.event-info p {
+  margin: 6px 0;
+  font-size: 0.85rem;
+  color: #555;
+  display: flex;
+  align-items: center;
+}
+
+.event-info i {
+  margin-right: 8px;
+  color: #0072ff;
+}
+
+.view-button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background: linear-gradient(to right, #00c6ff, #0072ff);
+  border: none;
+  border-radius: 50px;
+  color: #fff;
+  font-weight: 500;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.view-button:hover {
+  background: linear-gradient(to right, #0072ff, #00c6ff);
+}
+
+.past-event {
+  opacity: 0.6;
+  filter: grayscale(100%);
+}

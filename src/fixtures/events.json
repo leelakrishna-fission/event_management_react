@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Music Concert",
+        "description": "An amazing live music concert.",
+        "datetime": "2025-01-10T18:30",
+        "location": "Mumbai",
+        "category": "Music",
+        "imagePreview": "https://cdn.pixabay.com/photo/2014/11/26/15/20/saxophone-546303_640.jpg",
+        "id": "8d9fda92-04e3-4e90-a1f4-c1a2c72a7c29"
+    },
+    {
+        "title": "Tech Meetings",
+        "description": "A cutting-edge technology conference.",
+        "datetime": "2025-07-15T09:00",
+        "location": "Bangalore",
+        "category": "Conference",
+        "imagePreview": "https://img.freepik.com/free-vector/technology-conference-bannertemplate_1361-2226.jpg?ga=GA1.1.2079222884.1744695863&semt=ais_hybrid&w=740",
+        "id": "a2c5c7d1-27db-4018-89d4-9a6d20645d12"
+    },
+    {
+        "title": "Music Exhibition",
+        "description": "Exhibition showcasing modern music.",
+        "datetime": "2025-04-25T14:00",
+        "location": "Delhi",
+        "category": "Music",
+        "imagePreview": "https://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/back05.jpg",
+        "id": "2b28f9db-368a-4b44-b1d5-476789ee3ab7"
+    },
+    {
+        "title": "Startups ",
+        "description": "Networking event for startup founders.",
+        "datetime": "2025-06-20T16:00",
+        "location": "Chennai",
+        "category": "Sport",
+        "imagePreview": "https://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/back04.jpg",
+        "id": "b90fba1e-6d3c-4696-9f1d-f29f2fd538ba"
+    },
+    {
+        "title": "Music Retreat",
+        "description": "A peaceful yoga retreat for wellness.",
+        "datetime": "2025-03-30T08:00",
+        "location": "Goa",
+        "category": "Music",
+        "imagePreview": "https://cdn.pixabay.com/photo/2014/11/26/15/20/saxophone-546303_640.jpg",
+        "id": "fad83fbb-d550-47e3-83d9-0629da8c8c90"
+    },
+    {
+        "title": "Sports Day",
+        "description": "Reception after a beautiful wins.",
+        "datetime": "2025-01-05T19:30",
+        "location": "Pune",
+        "category": "Sport",
+        "imagePreview": "https://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/back04.jpg",
+        "id": "5e9f4935-92ab-4f09-a390-e125df9136f1"
+    },
+    {
+        "title": "Food Festival",
+        "description": "A weekend full of delicious food.",
+        "datetime": "2025-09-01T12:00",
+        "location": "Kochi",
+        "category": "Festival",
+        "imagePreview": "https://img.freepik.com/free-photo/medium-shot-people-celebrating-tamil-new-year_23-2151210765.jpg?ga=GA1.1.2079222884.1744695863&semt=ais_hybrid&w=740",
+        "id": "3bc4a4a9-7c1b-44b8-b226-ea2fe8d0be90"
+    },
+    {
+        "title": "Science Fair",
+        "description": "An educational event showcasing science projects.",
+        "datetime": "2025-11-15T10:30",
+        "location": "Hyderabad",
+        "category": "Festival",
+        "imagePreview": "https://img.freepik.com/free-vector/gradient-national-science-day-background_23-2149261597.jpg",
+        "id": "f2a54875-95a0-423f-b23f-b40d3d1a6481"
+    },
+    {
+        "title": "Film Screening",
+        "description": "Exclusive screening of an indie film.",
+        "datetime": "2025-01-10T20:00",
+        "location": "Kolkata",
+        "category": "Cinema",
+        "imagePreview": "https://img.freepik.com/free-photo/top-view-arrangement-cinema-objects-close-up_23-2148457831.jpg",
+        "id": "e9ac4d92-bd1a-496a-b1f7-d51253938cc5"
+    },
+    {
+        "title": "Workshop",
+        "description": "Learn the art of photography from experts.",
+        "datetime": "2025-12-05T11:00",
+        "location": "Jaipur",
+        "category": "Cinema",
+        "imagePreview": "https://img.freepik.com/free-photo/special-product-photography-studio-with-workers_23-2148970220.jpg",
+        "id": "f89bcdc5-0f45-4a93-b568-29fe5e746f0b"
+    }
+]
